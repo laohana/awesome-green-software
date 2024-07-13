@@ -166,6 +166,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [WeDeex - Chrome](https://chrome.google.com/webstore/detail/wedeex/ojlagggckhpedblhemgjhecbggnibale)
 - [WeDeex - Edge](https://microsoftedge.microsoft.com/addons/detail/wedeex/jbocoolinibenmobjadejejdbanalfee)
 - [Beacon](https://digitalbeacon.co/) Calculate the environmental impact of a web page.
+- [Sustainable Web Design](https://sustainablewebdesign.org)
 
 #### Windows
 
